@@ -20,6 +20,8 @@ body{
     /* margin-top: 20px; */
     float: left;
 }
+
+/* container styles below  */
 .container-left,.container-right{
     background-color: rgb(24, 23, 23);
     width : 400px;
